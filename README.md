@@ -1,2 +1,2 @@
-﻿# OFox
-  -My Kernel for Windows 11.
+﻿# OFoX
+  -My Kernel for WinDoWs
